@@ -11,7 +11,8 @@ Ramiro D. Crego 1,2,3, Haydée Hernández-Yáñez 1,4, Thomas Rabeil 5, Yves Hin
 4 - The Nature Conservancy, Colorado Field Office, 2424 Spruce St., Boulder, CO 80302, USA
 5 - Wild Africa Conservation, G3P9+RXP, Niamey, Niger
 
-This repository contains the code and data to conduct the full analysis and reproduce the results of the study:
+This repository contains the code and data to conduct the full analysis and reproduce the results of the study https://doi.org/10.1016/j.gecco.2023.e02682
+Note that to run the code that require the posteriors from the model, you need to download the file from zenodo: 10.5281/zenodo.10003148
 
 ## Abstract:
 
